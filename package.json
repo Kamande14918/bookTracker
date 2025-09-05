@@ -1,6 +1,6 @@
 {
-  "name": "booktracker",
-  "private": true,
+  "name": "server",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "build": "react-router build",
